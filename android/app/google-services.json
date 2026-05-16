@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548384663008",
+    "project_id": "enanoza-finals-lab-act-2",
+    "storage_bucket": "enanoza-finals-lab-act-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548384663008:android:0b98250c9307a35277b785",
+        "android_client_info": {
+          "package_name": "com.olfu.enanoza_finals_lab_act_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4R8PCTKBm3-KYqD4C-TDQnvmoP8pKWVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
