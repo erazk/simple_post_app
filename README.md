@@ -1,17 +1,79 @@
 # enanoza_finals_lab_act_2
 
-Ezra Enanoza
+**Developer:** Ezra Enanoza
 
-## Getting Started
+## 📌 Project Description
 
-This project is a starting point for a Flutter application.
+This is a Flutter application project created for Finals Laboratory Activity 2. The application serves as a simple post app that demonstrates basic Flutter development, project structure, UI implementation, and application functionality.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter-based mobile application
+- Simple and clean user interface
+- Post app functionality
+- Organized project structure
+- Android application support
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
+
+- Flutter
+- Dart
+- Android Studio
+- Git
+- GitHub
+
+## 📂 Project Structure
+
+```text
+lib/
+├── main.dart
+```
+
+## ▶️ Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- Flutter SDK
+- Dart SDK
+- Android Studio
+- Git
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/erazk/simple_post_app.git
+```
+
+Go to the project folder:
+
+```bash
+cd simple_post_app
+```
+
+Install dependencies:
+
+```bash
+flutter pub get
+```
+
+Run the application:
+
+```bash
+flutter run
+```
+
+## 📱 Platform
+
+- Android
+
+## 👤 Author
+
+**Ezra Enanoza**
+
+## 📄 License
+
+This project is for academic purposes only.
